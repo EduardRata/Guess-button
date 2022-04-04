@@ -1,0 +1,9 @@
+html {
+    background-color: black;
+    color: antiquewhite;
+}
+button {
+    width: 100px;
+    height: 25px;
+    margin: 10px;
+}
