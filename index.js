@@ -1,4 +1,3 @@
-
 let randomNumber;
 let nr;
 let resetButton;
